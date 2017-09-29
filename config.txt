@@ -1,0 +1,3 @@
+name = Stefan
+size = 100
+email = sandreev1998@icloud.com
