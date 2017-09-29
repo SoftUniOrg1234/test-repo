@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 name=Neli
 size=50
 email=nelsuunn@abv.bg
+=======
+name = Stefan
+size = 100
+email = sandreev1998@icloud.com
+>>>>>>> 8a9918d127d0c1b28bb247fb43ebf140b52d5b05
