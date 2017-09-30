@@ -4,3 +4,6 @@ email=nelsuunn@abv.bg
 name = Stefan
 size = 100
 email = sandreev1998@icloud.com
+name = Dimitur
+size = 80
+email = dimitur.mihailov988@gmail.com
